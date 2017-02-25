@@ -1,9 +1,15 @@
 {
-  "name": "generator-library-wepack2",
-  "version": "0.0.3",
+  "name": "generator-library-webpack2",
+  "version": "0.0.1",
   "description": "a generator use webpack2 to bundle the library",
   "main": "index.js",
   "repository": "https://github.com/tgxpuisb/generator-library.git",
   "author": "yizhi.li <tgxpuisb@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  },
+  "files": [
+    "generators"
+  ]
 }
