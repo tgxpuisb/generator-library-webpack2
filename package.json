@@ -1,6 +1,6 @@
 {
   "name": "generator-library-webpack2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a generator use webpack2 to bundle the library",
   "main": "index.js",
   "repository": "https://github.com/tgxpuisb/generator-library.git",
@@ -9,7 +9,9 @@
   "dependencies": {
     "yeoman-generator": "^1.1.0"
   },
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "files": [
     "generators"
   ]
