@@ -2,7 +2,8 @@
   "name": "<%= appname %>",
   "version": "0.0.1",
   "description": "",
-  "main": "src/index.js",
+  "main": "dist/<%= appname %>.js",
+  "jsnext:main": "src/<%= appname %>.js",
   "repository": "https://github.com/<%= name %>/<%= appname %>.git",
   "author": "<%= name %> <<%= email %>>",
   "bugs": {
