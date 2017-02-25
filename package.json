@@ -9,6 +9,7 @@
   "dependencies": {
     "yeoman-generator": "^1.1.0"
   },
+  "keywords": ["yeoman-generator"],
   "files": [
     "generators"
   ]
